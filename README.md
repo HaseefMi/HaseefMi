@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Haseef
+- 👋 Hi, I’m Haseef & I've been a developer for 8 months
 - 🔍 I’m a Full-Stack & AI/ML Developer and passionate about building innovative solutions and end to end products.
 - 💻 My favorite technologies and languages include JavaScript, Python, React, Django, TensorFlow, Scikit-learn, and Keras.
 - 📚 I have Professional Certificates from Meta in Front End Development & Meta in Back End Development
