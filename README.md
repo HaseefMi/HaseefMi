@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Haseef, Based in the Greater Toronto Area, I'm in Gr. 10 & I've been a developer for almost a year now
+- 👋 Hi, I’m Haseef, Based in the Greater Toronto Area, I'm in Gr. 11 & I've been a developer for a year and a half now
 - 🌟 I've worked as the CTO of Sereni, a student startup and am now activley working with clients as a Web Development & AI consultant.
 - 👉 I'm the Founder & CEO of HM Web Development | Building full stack all in one web soloutions for clients 
 - 🔍 I’m a Full-Stack & AI/ML Developer and passionate about leading teams & building innovative solutions and end to end products.
